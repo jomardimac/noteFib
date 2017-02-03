@@ -1,0 +1,9 @@
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\bin\Debug\dimaculangan_hw3.exe.config
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\bin\Debug\dimaculangan_hw3.exe
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\bin\Debug\dimaculangan_hw3.pdb
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.csprojResolveAssemblyReference.cache
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.Form1.resources
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.Properties.Resources.resources
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.csproj.GenerateResource.Cache
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.exe
+C:\Users\Jomar\Documents\CptS321\dimaculangan_hw3\obj\Debug\dimaculangan_hw3.pdb
